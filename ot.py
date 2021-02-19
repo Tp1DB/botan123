@@ -5,7 +5,7 @@ import requests
 from telebot import types
 
 #ДАННЫЕ, КОТОРЫЕ НУЖНО МЕНЯТЬ
-bot = telebot.TeleBot('1695373380:AAEwWnAoCm27j9dC1wVEvWBY6_dmPhnyvZ') #токен из @botfather
+bot = telebot.TeleBot('1695373380:AAEwWnAoCm27j9dC1wVEvWBY6_dmPhnyvZg') #токен из @botfather
 
 manager = ''                           #телеграм менеджера
 qiwi_numb = '+ххх'                         #номер киви
