@@ -3,7 +3,7 @@ import time
 import telebot
 import requests
 from telebot import types
-
+1
 #ДАННЫЕ, КОТОРЫЕ НУЖНО МЕНЯТЬ
 bot = telebot.TeleBot('1648750717:AAFWsW2O1wqthcFHUNtTsLJZIMovt5t3uak') #токен из @botfather
 
